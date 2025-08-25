@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scenes/JuiceMixer.unity
+    guid: 62e33c090bc8151409e1a054028dec0a
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/2.4.3/Hands Interaction Demo/Runtime/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
+  - enabled: 0
+    path: Assets/Samples/Meta - Voice SDK - Dictation/60.0.0/Dictation/Scenes/DictationSampleScene.unity
+    guid: 3a8c4fc64087e144b845d1afe890c5ba
+  - enabled: 0
+    path: Assets/Scenes/SampleScene_Pimped.unity
+    guid: 5fb2ec0b3e5276843852176df581d39c
+  - enabled: 0
+    path: Assets/Scenes/JM_Connected.unity
+    guid: b662c2d7893f79746b22e58e2093ec58
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 36177f5287ad850419cfd8f0952e634a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: fd78124b14c7b194f9d0605013ee4e47, type: 2}
